@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Microsoft YaHei';
+    background: #00FFFF;
+}
+
+.header {
+    position: relative;
+    height: 80px;
+    background: #333;
+}
+
+.header img {
+    padding-left: 30px;
+    height: 80px;
+}
+
+.header ul {
+    float: right;
+}
+
+.header li {
+    display: inline-block;
+    margin: 2em 1em;
+    list-style-type: none;
+}
+
+.header a:link {
+    color: white;
+}
+
+.header a:visit {
+    color: blue;
+}
+
+.header a:hover {
+    color: #FFFF00;
+}
