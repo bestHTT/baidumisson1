@@ -32,19 +32,19 @@ body {
     list-style-type: none;
 }
 
-body a:link {
+.header a:link {
     color: #00FFFF;
 }
 
-body a:visited {
+.header a:visited {
     color: yellowgreen;
 }
 
-body a:hover {
+.header a:hover {
     color: orangered;
 }
 
-body a:active {
+.header a:active {
     color: purple
 }
 
