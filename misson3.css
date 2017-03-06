@@ -1,0 +1,63 @@
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    body {
+        font-family: "微软雅黑";
+        font-size: 16px;
+        color: black;
+        background-color: white;
+    }
+    
+    .div1 {
+        background-color: #eee;
+        width: 95%;
+        margin: 20px auto;
+        overflow: hidden;
+    }
+    
+    .div2 {
+        border: 1px solid #999;
+        float: left;
+        left: 0;
+        top: 0;
+        width: 200px;
+        margin: 20px 0 20px 20px;
+        background-color: white;
+    }
+    
+    .div2 span {
+        float: right;
+        width: 60px;
+        margin: 20px 20px 0 0;
+    }
+    
+    img {
+        display: block;
+        border: 1px solid #999;
+        height: 80px;
+        width: 80px;
+        margin: 20px;
+    }
+    
+    .div4 {
+        border: 1px solid #999;
+        float: right;
+        width: 120px;
+        top: 0;
+        right: 0;
+        margin: 20px 20px 20px 0;
+        background-color: white;
+    }
+    
+    .div3 {
+        margin: 20px 165px 20px 245px;
+        border: 1px solid #999;
+        background-color: white;
+    }
+    
+    .div3 p {
+        margin: 20px;
+        text-indent: 2em;
+    }
